@@ -1,6 +1,6 @@
 # Datastory Asylum Applications in Switzerland
 
-By Hannah-Sarah Kühne & Tabea Eggler
+By Hannah-Sarah Kühne & Tabea Eggler - student project 5. semester
 
 ## Goal
 With this analysis, we want to find out how asylum applications in Switzerland have developed over the last 25 years. We examine the distribution of asylum applications by gender, the breakdown of decisions over the years, country-specific facts, and the number of applications by nation. In addition, the cantonal distributions of asylum applications have been examined in more detail.
