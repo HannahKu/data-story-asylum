@@ -2,7 +2,7 @@
 
 # Datastory Asylgesuche in der Schweiz
 
-By Hannah-Sarah Kühne & Tabea Eggler - Studentenprojekt 5. Semester
+By Hannah Kühne & Tabea Eggler - Studentenprojekt 5. Semester
 
 ## Ziel
 Mit unserer Analyse möchten wir herausfinden, wie sich die Asylgesuche über die letzten 25 Jahre entwickelt haben. Dabei untersuchen wir die Verteilung der Asylgesuche nach Geschlechtern, die Aufschlüsselung der Entscheide über die Jahre, Länder spezifische Fakten und die Anzahl Gesuche nach Nationen. Zusätzlich sollen die kantonalen Verteilungen der Asylgesuche näher betrachtet werden.
